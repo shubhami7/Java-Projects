@@ -1,2 +1,2 @@
-# Java-Projects
-These are my personal projects I code in my own time. 
+# Blackjack Game
+This reposotory consists of all the files I created to implement a Blackjack game in Java. 
